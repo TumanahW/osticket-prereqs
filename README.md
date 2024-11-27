@@ -8,7 +8,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### [ Part I - Create Resource Group & Virtual Machine ](https://www.loom.com/share/e93d55f32ab049b1888146da8e4c8aa0?sid=562dbd42-8cda-4f88-8702-df73933c5f97)
+- ### [ Part II - Install and Configure osTicket](https://www.loom.com/share/2adc36a3443d4330a4c6fef6eb16d0dc?sid=259dd574-a12e-4c64-8aa0-fd5b3bd92a01)
 
 <h2>Environments and Technologies Used</h2>
 
