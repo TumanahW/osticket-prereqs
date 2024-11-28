@@ -29,7 +29,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   <li>Web Server: Install a web server IIS (Windows) to host the osTicket application.</li>
   <li>PHP Environment: Install PHP 7.4 or higher with required extensions (mysqli, mbstring, gd).</li>
   <li>Database Server: Install MySQL or MariaDB and set up a database with a user for osTicket. </li>
-  <li>osTicket Installation Package: Download the osTicket zip file from the [osTicket Official Website](https://osticket.com/download) , extract it to the web root, and set necessary file permissions.</li>
+  <li>osTicket Installation Package: Download the osTicket zip file from the <a href="https://osticket.com/download" target="_blank">osTicket Official Website</a>, extract it to the web root, and set necessary file permissions.</li>
 </ol>
 
 <h2>Installation Steps</h2>
