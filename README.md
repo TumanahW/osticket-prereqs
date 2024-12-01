@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<h3> Create a Virtual Machine (VM) </h3>
+<h3> Log on to Microsoft Azure </h3>
 <p>Log in to the Azure Portal: Go to https://portal.azure.com.</p>
 
 ![image](https://github.com/user-attachments/assets/8fd429db-3f58-4751-bc18-927fdd312946)
