@@ -64,12 +64,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![image](https://github.com/user-attachments/assets/72cc8287-755d-47f8-b78c-b7df8e129e55)
 <br />
-<p>To access you're virtual machine you will need a Remote Desktop Application that you can log into. If you are using Mac as a local system, you can download it from the app store. If you are using Windows Os you can access Remote Desktop by going to Start> Settings > Systems> Remote Desktop. as</p>
+<p>To access you're virtual machine you will need a Remote Desktop Application that you can log into. If you are using Mac as a local system, you can download it from the app store. If you are using Windows Os you can access Remote Desktop by going to Start> Settings > Systems> Remote Desktop. </p>
 
 
 ![image](https://github.com/user-attachments/assets/b381e89e-8d91-4b20-8fb0-e15b85d64be1)
 
 ![image](https://github.com/user-attachments/assets/615fe7a7-6dd3-47aa-ac8d-917856bb94e8)
+ 
+ <br/>
+
+<h2>Install  osTicket  and Configure</h2>
+
 
 
 
