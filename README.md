@@ -75,6 +75,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Install  osTicket  and Configure</h2>
 
+<p> Download the needed files from OsTicket's Website to the Desktop. Once Downloaded,extract the files.</p>
+
+<img width="721" alt="Screenshot 2024-12-01 at 1 20 16 PM" src="https://github.com/user-attachments/assets/fecbea33-24ea-4ac4-8900-76a795037d2d">
+
+<img width="712" alt="Screenshot 2024-12-01 at 1 20 46 PM" src="https://github.com/user-attachments/assets/966a50ad-1dd7-4109-8389-88a9c6c3b939">
+
+<img width="717" alt="Screenshot 2024-12-01 at 1 21 10 PM" src="https://github.com/user-attachments/assets/e94fae49-c012-4621-990e-aef43c97616f">
+
+<img width="719" alt="Screenshot 2024-12-01 at 1 21 32 PM" src="https://github.com/user-attachments/assets/783c453c-d772-4219-bdf4-56cf81306ac6">
+
 
 
 
