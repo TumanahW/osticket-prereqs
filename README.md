@@ -41,16 +41,46 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <br />
 
-<p> Within the Microsoft Azure Portal create a Resource Group. A rescource group is like container that holds Azure Related Resources such as Virtal machines and storage accounts. It allows for us to manage them from a single unit. We will later use this  Resource group when we create our Virtual Machine. </p>
+<p> Within the Microsoft Azure Portal create a Resource Group. A rescource group is a logical container that holds Azure Related Resources such as Virtal machines and storage accounts. It allows for us to manage them from a single unit. We will later use this  Resource group when we create our Virtual Machine. </p>
 
 ![image](https://github.com/user-attachments/assets/e327845f-a30d-4e22-808c-ef317cb2b0d2)
 
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> Next, create a virtual machine(VM) with Windows 10 Pro, version 22H2.  you must create a virtual machine that has at least 2vcpus and 16gbs of memory. </p>
+<p>Complete the following fields when you create the VM:
+ <li>Name the VM </li>
+ <li>Region  </li>
+ <li>Availability Zone </li>
+  <li> image: Windows 10 & Size: 2Vcpus</li>
+  <li> Create a username and password that you will use to log into your virtual machine</li>
+ <li>Check the licensing box at the bottom</li>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+
+![image](https://github.com/user-attachments/assets/c2b5e986-8bf8-4e63-b850-577e2a683884)
+
 <br />
+<p>Go to the main page on the Azure portal > Search for Virtual Machine > Locate the virtual machine you just create and copy the public IP Address of the Virtual Machine.</p>
+
+![image](https://github.com/user-attachments/assets/72cc8287-755d-47f8-b78c-b7df8e129e55)
+<br />
+<p>To access you're virtual machine you will need a Remote Desktop Application that you can log into. If you are using Mac as a local system, you can download it from the app store. If you are using Windows Os you can access Remote Desktop by going to Start> Settings > Systems> Remote Desktop. as</p>
+
+
+![image](https://github.com/user-attachments/assets/b381e89e-8d91-4b20-8fb0-e15b85d64be1)
+
+![image](https://github.com/user-attachments/assets/615fe7a7-6dd3-47aa-ac8d-917856bb94e8)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
