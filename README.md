@@ -34,20 +34,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+<h3> Create a Virtual Machine (VM) </h3>
+<p>Log in to the Azure Portal: Go to https://portal.azure.com.</p>
+
+![image](https://github.com/user-attachments/assets/8fd429db-3f58-4751-bc18-927fdd312946)
+
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+<p> Within the Microsoft Azure Portal create a Resource Group. A rescource group is like container that holds Azure Related Resources such as Virtal machines and storage accounts. It allows for us to manage them from a single unit. We will later use this  Resource group when we create our Virtual Machine. </p>
+
+![image](https://github.com/user-attachments/assets/e327845f-a30d-4e22-808c-ef317cb2b0d2)
+
 <br />
 
 <p>
