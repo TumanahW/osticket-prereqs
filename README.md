@@ -85,8 +85,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="719" alt="Screenshot 2024-12-01 at 1 21 32 PM" src="https://github.com/user-attachments/assets/783c453c-d772-4219-bdf4-56cf81306ac6">
 
-<p> Next, We'll install and enable IIS in Windows with CGI.osTicket, being a web-based ticketing system, requires a web server to host its files and manage HTTP requests.
- Start by going to the control Panel> Click on Uninstall a program> On the left side bar click "Turn windows features on or off </p>
+<p> Next, We'll install and enable Information Internet Services(IIS) in Windows with CGI.osTicket, being a web-based ticketing system, requires a web server to host its files and manage HTTP requests.
+ To enable IIS go to: control Panel> Click on Uninstall a program> On the left side bar click "Turn windows features on or off </p>
 
 <img width="653" alt="Screenshot 2024-12-01 at 1 41 36 PM" src="https://github.com/user-attachments/assets/c688e3fc-6688-473a-8a61-5636f26ba728">
 <img width="641" alt="Screenshot 2024-12-01 at 1 42 02 PM" src="https://github.com/user-attachments/assets/ccf8ec8e-f96c-4f36-9b08-1bfbb0c37fd3">
