@@ -97,6 +97,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img width="621" alt="Screenshot 2024-12-01 at 8 47 18 PM" src="https://github.com/user-attachments/assets/f5a2c051-f5bd-4766-bc10-14a8c9f7ef00">
 </br>
 <p> Next, We will install PHP Manager.PHP Manager simplifies managing PHP settings and extensions on IIS, ensuring compatibility and proper configuration for osTicket. </p>
+
 ![Screenshot 2024-12-02 at 10 39 54 PM](https://github.com/user-attachments/assets/bb1bcf7f-bd0f-4513-901a-108d90b60cb0)
 
 ![Screenshot 2024-12-02 at 10 44 58 PM](https://github.com/user-attachments/assets/f4f5d319-f067-409c-932a-3f52d4ae3504)
