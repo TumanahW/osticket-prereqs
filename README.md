@@ -125,8 +125,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![Screenshot 2024-12-03 at 9 58 09 PM](https://github.com/user-attachments/assets/4c9b5b56-381e-48fd-97f8-0a4526d7fabb)
 ![Screenshot 2024-12-03 at 9 58 35 PM](https://github.com/user-attachments/assets/b2917d8b-1afb-404c-a5b9-b415c2749f89)
 ![Screenshot 2024-12-03 at 9 59 00 PM](https://github.com/user-attachments/assets/3c560916-5f31-48d9-908f-a1a662106bdd)
+<p>39 - VC-REDIS</p>
 
+![Screenshot 2024-12-03 at 10 10 51 PM](https://github.com/user-attachments/assets/22969c25-842f-4320-831f-56847afce67e)
+![Screenshot 2024-12-03 at 10 13 11 PM](https://github.com/user-attachments/assets/1c9b03fe-f8f0-4f30-a6b2-bab497ba946e)
 
+<p>We'll install MySQL</p>
+
+![Screenshot 2024-12-03 at 10 13 11 PM](https://github.com/user-attachments/assets/8fd9c670-360f-406d-a013-a1b06c239e6f)
+![Screenshot 2024-12-03 at 10 15 26 PM](https://github.com/user-attachments/assets/d482b198-98cd-446b-8c38-107328a5fb0a)
 
 
 
