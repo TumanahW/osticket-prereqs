@@ -203,7 +203,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![Screenshot 2024-12-04 at 12 19 26 AM](https://github.com/user-attachments/assets/56464bcf-53df-4edc-b8d4-ff6b4b671cc5)
 ![Screenshot 2024-12-04 at 12 19 52 AM](https://github.com/user-attachments/assets/99f1b9e6-2f40-4209-b700-74c1c79758a8)
 ![Screenshot 2024-12-04 at 12 20 39 AM](https://github.com/user-attachments/assets/abe898f5-ef1d-4dc4-8adb-84ffa0669d54)
-
+![Screenshot 2024-12-04 at 12 22 08 AM](https://github.com/user-attachments/assets/e293d9cd-abe9-4f83-a391-e7a1c5661dbd)
+![Screenshot 2024-12-04 at 12 22 32 AM](https://github.com/user-attachments/assets/e8be9306-92ce-4b21-b21b-c480dab76067)
+![Screenshot 2024-12-04 at 12 22 58 AM](https://github.com/user-attachments/assets/b7b04632-d6e4-4427-a418-5c285723e28a)
+![Screenshot 2024-12-04 at 12 23 19 AM](https://github.com/user-attachments/assets/4d758e7d-6c42-4483-82ad-9ac1fc006fa8)
+[Screenshot 2024-12-04 at 12 23 39 AM](https://github.com/user-attachments/assets/70b4a2c3-7d3c-4b87-8dcb-274a884e0385)
 
 
 
