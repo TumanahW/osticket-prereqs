@@ -129,12 +129,35 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![Screenshot 2024-12-03 at 10 10 51 PM](https://github.com/user-attachments/assets/22969c25-842f-4320-831f-56847afce67e)
 ![Screenshot 2024-12-03 at 10 13 11 PM](https://github.com/user-attachments/assets/8fd9c670-360f-406d-a013-a1b06c239e6f)
-<p>We'll install MySQL</p>
-
 
 ![Screenshot 2024-12-03 at 10 15 26 PM](https://github.com/user-attachments/assets/d482b198-98cd-446b-8c38-107328a5fb0a)
+<p>We'll install MySQL</p>
 
 ![Screenshot 2024-12-03 at 10 22 14 PM](https://github.com/user-attachments/assets/3da606c2-9b07-49c5-b02b-cd7d1485d238)
+![Screenshot 2024-12-03 at 10 15 35 PM](https://github.com/user-attachments/assets/be5fd44c-f299-4028-bb56-57cc50487b70)
+
+![Screenshot 2024-12-03 at 10 36 25 PM](https://github.com/user-attachments/assets/5edd5ef1-d770-4c4d-b641-0d08248a8ef4)
+
+![Screenshot 2024-12-03 at 10 38 20 PM](https://github.com/user-attachments/assets/13c419bb-83b0-4c41-8627-3aa6004ae004)
+![Screenshot 2024-12-03 at 10 38 50 PM](https://github.com/user-attachments/assets/44997003-2290-480c-8f04-37dc0b294f18)
+![Screenshot 2024-12-03 at 10 39 13 PM](https://github.com/user-attachments/assets/70db1b96-fe3d-4b74-834d-346166abc87e)
+![Screenshot 2024-12-03 at 10 39 40 PM](https://github.com/user-attachments/assets/05a99e42-7a54-40e5-986d-299b1621e64c)
+![Screenshot 2024-12-03 at 10 40 15 PM](https://github.com/user-attachments/assets/6021a856-6017-4d07-b4f3-b5d111504a4b)
+![Screenshot 2024-12-03 at 10 41 15 PM](https://github.com/user-attachments/assets/a5b8379b-898b-4b50-8ec4-40dbf1ada0e9)
+
+<p> Next, we'll configure PHP with in our webserver.</p>
+
+![Screenshot 2024-12-03 at 10 42 41 PM](https://github.com/user-attachments/assets/d1af9b23-6a95-4272-83ff-2edf438c0a67)
+![Screenshot 2024-12-03 at 10 43 37 PM](https://github.com/user-attachments/assets/c4cde7ca-127c-404f-888a-0b3a5219e973)
+![Screenshot 2024-12-03 at 10 43 37 PM](https://github.com/user-attachments/assets/ba700867-95f6-44a4-9faa-eab7a4e0f0b3)
+![Screenshot 2024-12-03 at 10 44 40 PM](https://github.com/user-attachments/assets/cee4691e-b5d4-4cc4-b956-9ff4d266ea33)
+![Screenshot 2024-12-03 at 10 50 29 PM](https://github.com/user-attachments/assets/5ef0510b-366e-45fc-934a-18f1aee82003)
+![Screenshot 2024-12-03 at 10 51 32 PM](https://github.com/user-attachments/assets/3b99b648-633d-4d66-8647-a55e0963a705)
+![Screenshot 2024-12-03 at 10 52 59 PM](https://github.com/user-attachments/assets/748f2789-a478-4668-937e-008a623299a7)
+![Screenshot 2024-12-03 at 10 53 31 PM](https://github.com/user-attachments/assets/ceac6145-eff5-40de-8e68-c831c59d28d5)
+
+
+
 
 
 
