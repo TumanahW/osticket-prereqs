@@ -107,7 +107,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![Screenshot 2024-12-02 at 10 46 19 PM](https://github.com/user-attachments/assets/50908885-e6e1-4e23-a865-c6dc3b7b610e)
 
 ![Screenshot 2024-12-03 at 9 32 04 PM](https://github.com/user-attachments/assets/a21ccf58-a837-498d-93c7-e4a028b0dc5e)
-
+<p>Next, We'll extract PHP files to the PHP folder we created on the C:/drive.</p>
 ![Screenshot 2024-12-03 at 9 35 47 PM](https://github.com/user-attachments/assets/5e88bcda-6dfa-460b-a6d6-0c5e6bc1438a)
 
 ![Screenshot 2024-12-03 at 9 37 14 PM](https://github.com/user-attachments/assets/1dfc1cb6-9ab2-46c0-88a9-5f0cbccd3bff)
