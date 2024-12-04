@@ -107,6 +107,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![Screenshot 2024-12-02 at 10 46 19 PM](https://github.com/user-attachments/assets/50908885-e6e1-4e23-a865-c6dc3b7b610e)
 
 ![Screenshot 2024-12-03 at 9 32 04 PM](https://github.com/user-attachments/assets/a21ccf58-a837-498d-93c7-e4a028b0dc5e)
+
 <p>Next, We'll extract PHP files to the PHP folder we created on the C:/drive.</p>
 
 ![Screenshot 2024-12-03 at 9 35 47 PM](https://github.com/user-attachments/assets/5e88bcda-6dfa-460b-a6d6-0c5e6bc1438a)
@@ -126,13 +127,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![Screenshot 2024-12-03 at 9 58 09 PM](https://github.com/user-attachments/assets/4c9b5b56-381e-48fd-97f8-0a4526d7fabb)
 ![Screenshot 2024-12-03 at 9 58 35 PM](https://github.com/user-attachments/assets/b2917d8b-1afb-404c-a5b9-b415c2749f89)
 ![Screenshot 2024-12-03 at 9 59 00 PM](https://github.com/user-attachments/assets/3c560916-5f31-48d9-908f-a1a662106bdd)
-<p>39 - VC-REDIS</p>
+
+<p>Applications like osTicket rely on components or dependencies developed in C++ (e.g., PHP, web servers). The VC-redist package provides the required libraries to run these components properly.
+</p>
 
 ![Screenshot 2024-12-03 at 10 10 51 PM](https://github.com/user-attachments/assets/22969c25-842f-4320-831f-56847afce67e)
 ![Screenshot 2024-12-03 at 10 13 11 PM](https://github.com/user-attachments/assets/8fd9c670-360f-406d-a013-a1b06c239e6f)
 
 ![Screenshot 2024-12-03 at 10 15 26 PM](https://github.com/user-attachments/assets/d482b198-98cd-446b-8c38-107328a5fb0a)
-<p>We'll install MySQL</p>
+<p>We'll install MySQL.MySQL serves as the database management system (DBMS), playing a critical role in storing, organizing, and retrieving the data necessary for the system's operations. </p>
 
 ![Screenshot 2024-12-03 at 10 22 14 PM](https://github.com/user-attachments/assets/3da606c2-9b07-49c5-b02b-cd7d1485d238)
 ![Screenshot 2024-12-03 at 10 15 35 PM](https://github.com/user-attachments/assets/be5fd44c-f299-4028-bb56-57cc50487b70)
