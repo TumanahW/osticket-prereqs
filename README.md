@@ -128,7 +128,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>39 - VC-REDIS</p>
 
 ![Screenshot 2024-12-03 at 10 10 51 PM](https://github.com/user-attachments/assets/22969c25-842f-4320-831f-56847afce67e)
-![Screenshot 2024-12-03 at 10 13 11 PM](https://github.com/user-attachments/assets/1c9b03fe-f8f0-4f30-a6b2-bab497ba946e)
 
 <p>We'll install MySQL</p>
 
