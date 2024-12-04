@@ -181,8 +181,22 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![Screenshot 2024-12-03 at 11 35 45 PM](https://github.com/user-attachments/assets/62e939c0-a03f-41f7-9d3c-1d9736a161fb)
 ![Screenshot 2024-12-03 at 11 36 19 PM](https://github.com/user-attachments/assets/ff9d83df-56a4-474e-bfe1-872849498fcf)
+![Screenshot 2024-12-03 at 11 38 48 PM](https://github.com/user-attachments/assets/8ba0ed15-abfc-4d57-8225-9670908e4ac0)
+![Screenshot 2024-12-03 at 11 42 57 PM](https://github.com/user-attachments/assets/9c6b7b72-42a9-4162-a53f-a98e2e9957bc)
+![Screenshot 2024-12-03 at 11 43 19 PM](https://github.com/user-attachments/assets/e2d7f9ce-a64c-4526-be4d-8a86dfaa3f17)
+![Screenshot 2024-12-03 at 11 43 41 PM](https://github.com/user-attachments/assets/e3917508-4e05-419d-8551-3df8ff86401c)
+![Screenshot 2024-12-03 at 11 44 09 PM](https://github.com/user-attachments/assets/594f459d-6659-49fc-8eb8-b9d43798b0ce)
+![Screenshot 2024-12-03 at 11 44 28 PM](https://github.com/user-attachments/assets/171177e3-d057-43d7-96b7-1acc66426b07)
+![Screenshot 2024-12-03 at 11 45 13 PM](https://github.com/user-attachments/assets/fdb90716-82d6-46c2-87a1-4d64c4c3293b)
+![Screenshot 2024-12-03 at 11 46 40 PM](https://github.com/user-attachments/assets/04dabdd6-1397-4d02-9a6b-3597595f97d0)
+![Screenshot 2024-12-03 at 11 47 09 PM](https://github.com/user-attachments/assets/89cba620-4677-43d7-9ec3-0532c7623183)
 
-
+![Screenshot 2024-12-03 at 11 48 27 PM](https://github.com/user-attachments/assets/f038d5db-0e88-4636-b2a7-9f3b6b6cbd9c)
+![Screenshot 2024-12-03 at 11 48 58 PM](https://github.com/user-attachments/assets/96bb4baa-33a0-4857-82e0-14bcc146de72)
+![Screenshot 2024-12-03 at 11 50 03 PM](https://github.com/user-attachments/assets/ae03f519-d78d-4f19-90d4-3c3c710ee8d5)
+![Screenshot 2024-12-03 at 11 50 39 PM](https://github.com/user-attachments/assets/aa19eb00-b8a8-4d22-a839-bd111e63bc86)
+![Screenshot 2024-12-03 at 11 51 00 PM](https://github.com/user-attachments/assets/ae4cc14c-5682-4863-a8be-ebf81889127b)
+![Screenshot 2024-12-03 at 11 52 01 PM](https://github.com/user-attachments/assets/74045f16-f130-47db-b552-3047c3ce5bd3)
 
 
 
